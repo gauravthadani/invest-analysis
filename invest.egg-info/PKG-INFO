@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: invest
+Version: 1.0
+Summary: A useful module
+Author: Gaurav Thadani
+Provides-Extra: tests
